@@ -1,0 +1,17 @@
+{"Michael Jordan":
+      {"Points": 30.1,
+      "Rebounds": 6.2,
+      "Assists": 5.3},
+"Lebron James":
+    {"Points": 27.4,
+    "Rebounds": 8.5,
+    "Assists": 8.3},
+"Larry Bird":
+    {"Points": 24.3,
+    "Rebounds": 10.0,
+    "Assists": 6.3},
+"Allen Iverson":
+    {"Points": 26.7,
+    "Rebounds": 3.7,
+    "Assists": 6.2}
+}
